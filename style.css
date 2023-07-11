@@ -66,21 +66,13 @@ article {
 .article-text h4 {
   margin-top: 0.317em;
   margin-bottom: 0em;
-  font-size: 1em;
+  font-size: 4em;
   font-weight: 650;
   text-transform: uppercase;
   line-height: 1;
   font-family: 'Inter', sans-serif;
 }
 
-.article-text .lede {
-  margin-top: 0.317em;
-  margin-bottom: 0em;
-  font-size: 4em;
-  font-weight: 650;
-  line-height: 1;
-  font-family: 'Inter', sans-serif;
-}
 
 
 .first::first-letter {
